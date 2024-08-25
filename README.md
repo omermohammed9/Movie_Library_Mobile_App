@@ -1,5 +1,3 @@
-### **Mobile App README**
-
 # Movie Library Mobile App
 
 ## Description
@@ -18,19 +16,19 @@ This mobile app provides a simple interface to browse and manage movies. Users c
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/movie-library-mobile-app.git
+   git clone https://github.com/omermohammed9/Movie_Library_Mobile_App.git
 
 2. **Navigate to the project folder:**
    ```bash
-    cd movie-library-mobile-app
+     cd movie-library-mobile-app
 
 3. **Install dependencies:**
    ```bash
-  flutter pub get
+    flutter pub get
 
 4. **Run the app:**
    ```bash
-flutter run
+   flutter run
 
 ## API Integration
 The mobile app interacts with the backend API of the Movie Library website to fetch and manage movie data, ensuring real-time updates and synchronization across platforms.
@@ -44,27 +42,23 @@ This section provides a visual tour of the Movie Library Mobile App, highlightin
 ### Home Screen
 - **Description**: Displays a list of movies available in the library.
 - **Image**:
-  ![Home Screen](path/to/home_screen.png "Home Screen")
+  ![Home Screen](assets/homepage.png "Home Screen")
 
 ### Movie Details Screen
 - **Description**: Shows detailed information about a selected movie.
 - **Image**:
-  ![Movie Details](path/to/movie_details.png "Movie Details")
+  ![Movie Details-1](assets/moviedetails1.png "Movie Details")
 
-### Add/Edit Movie Screen
+  ### Movie Details Screen
+- **Description**: Shows detailed information about a selected movie.
+- **Image**:
+  ![Movie Details-2](assets/moviedetails2.png "Movie Details")
+
+### Edit Movie Screen
 - **Description**: Interface for adding a new movie or editing an existing one.
 - **Image**:
-  ![Add/Edit Movie](path/to/add_edit_movie.png "Add/Edit Movie")
+  ![Edit Movie](assets/edit.png "Edit Movie")
 
-### Actor Management Screen
-- **Description**: Allows users to manage actors and link them to movies.
-- **Image**:
-  ![Actor Management](path/to/actor_management.png "Actor Management")
-
-### Comments and Likes Screen
-- **Description**: Where users can like a movie and add comments.
-- **Image**:
-  ![Comments and Likes](path/to/comments_likes.png "Comments and Likes")
 
 
 
