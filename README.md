@@ -1,6 +1,3 @@
-
----
-
 ### **Mobile App README**
 
 ```markdown
