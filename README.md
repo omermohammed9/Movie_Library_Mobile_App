@@ -41,15 +41,14 @@ This section provides a visual tour of the Movie Library Mobile App, highlightin
 
 ### Home Screen
 - **Description**: Displays a list of movies available in the library.
-- **Image**:
   ![Home Screen](assets/homepage.png "Home Screen")
 
-### Movie Details Screen
+### Movie Details Screen-1
 - **Description**: Shows detailed information about a selected movie.
 - **Image**:
   ![Movie Details-1](assets/moviedetails1.png "Movie Details")
 
-  ### Movie Details Screen
+  ### Movie Details Screen-2
 - **Description**: Shows detailed information about a selected movie.
 - **Image**:
   ![Movie Details-2](assets/moviedetails2.png "Movie Details")
