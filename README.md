@@ -1,6 +1,5 @@
 ### **Mobile App README**
 
-```markdown
 # Movie Library Mobile App
 
 ## Description
