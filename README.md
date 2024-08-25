@@ -45,17 +45,14 @@ This section provides a visual tour of the Movie Library Mobile App, highlightin
 
 ### Movie Details Screen-1
 - **Description**: Shows detailed information about a selected movie.
-- **Image**:
   ![Movie Details-1](assets/moviedetails1.png "Movie Details")
 
   ### Movie Details Screen-2
 - **Description**: Shows detailed information about a selected movie.
-- **Image**:
   ![Movie Details-2](assets/moviedetails2.png "Movie Details")
 
 ### Edit Movie Screen
 - **Description**: Interface for adding a new movie or editing an existing one.
-- **Image**:
   ![Edit Movie](assets/edit.png "Edit Movie")
 
 
